@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RelativeCalculator</string>
+    <string name="but1">1</string>
+    <string name="but2">2</string>
+    <string name="but3">3</string>
+    <string name="but4">4</string>
+    <string name="but5">5</string>
+    <string name="but6">6</string>
+    <string name="but7">7</string>
+    <string name="but8">8</string>
+    <string name="but9">9</string>
+    <string name="but0">0</string>
+    <string name="butC">C</string>
+    <string name="butPlusMinus">+/-</string>
+    <string name="butMinus">-</string>
+    <string name="butPlus">+</string>
+    <string name="butMult">x</string>
+    <string name="butSplit">÷</string>
+    <string name="btnPercent">%</string>
+    <string name="butDot">.</string>
+    <string name="butEquals">eq</string>
+    <string name="butBracketOpen">(</string>
+    <string name="butBracketClose">)</string>
+    <string name ="butFactorial">!x</string>
+    <string name="butRoot">√</string>
+    <string name="butPower">x^y</string>
+    <string name="butSin">sinx</string>
+    <string name="butCos">cosx</string>
+    <string name="butTg">tgx</string>
+    <string name="butChangeMode">Change Mode</string>
+    <string name="settings">settings</string>
+    <string name="OK">OK</string>
+    <string name="fileNotFound">Изображение не найдено</string>
+    <string name="permissionDenied">Отсутствуют привеленгии (чтение из файла)</string>
+</resources>
